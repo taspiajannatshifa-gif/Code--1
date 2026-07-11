@@ -7,3 +7,4 @@ prin("Bitwise XOR (a ^ b):", a ^ b)
 print("Bitwise NOT (~a):", ~a) # -(10+1) = -11
 print("Left Shift (a << 1):", a << 1) 
 print("Right Shift (a >> 1):", a >> 1)
+a
